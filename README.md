@@ -65,10 +65,12 @@ Message 2:
 Score: 32.45/100
 Recommendation: Ignorer
 Innovation Trend: Stable
+```
+
 Part of a Bigger Vision
 This script is a teaser. My v3 IA redefines AI memory (no tokens!), and my Tesla PACA strategy boosts sales in France’s top spots (ex. Fnac Nice, Carrefour Aix). It’s bold, it’s real, and it’s for humanity. Want in? Contact me: consulting@web3-crypto.xyz
 
-```
+
 License
 MIT License – use, tweak, share, just keep my name on it. See LICENSE for details.
 
