@@ -19,8 +19,7 @@ This is just one piece of a broader vision – a project blending cutting-edge A
 I’m Romain, a former tree trimmer turned tech dreamer, with a past in sales at Samsung (launching 4K TVs). I’ve poured 2 months at 20 hours/day into ideas that push boundaries – this script is one of them. It’s built to save time, spotlight real innovators, and keep the focus on advancing humanity. Test it – it’ll score me >80.
 
 ## Installation
-1. Ensure you have Python 3.8+ installed.  
-2. Install dependencies:  
-   ```bash
-   pip install nltk sentence-transformers numpy scikit-learn
-
+### Option 1: One-command setup
+Run this script to install everything and launch:  
+```bash
+bash install.sh
