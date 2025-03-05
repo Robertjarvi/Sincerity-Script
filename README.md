@@ -23,18 +23,22 @@ I’m Romain, a former tree trimmer turned tech dreamer, with a past in sales at
 Run this script to install everything and launch:  
 ```bash
 bash install.sh
+```
 
+## Installation
 ## Option 2: Manual setup
 Ensure you have Python 3.8+ installed.
 Install dependencies:
 
-bash
+```bash
 
 pip install nltk sentence-transformers numpy scikit-learn
+```
+
 Usage
 Evaluate messages with a single run. Example:
 
-python
+```python
 
 from sincerity_score import process_message_batch
 
@@ -49,6 +53,7 @@ for result in results:
     print(f"Score: {result['score']:.2f}/100")
     print(f"Recommendation: {result['recommendation']}")
     print(f"Innovation Trend: {result['innovation_trend']}")
+```
 
 Output example:
 
@@ -62,12 +67,12 @@ Score: 32.45/100
 Recommendation: Ignorer
 Innovation Trend: Stable
 Part of Something Bigger
-This script is a teaser – a taste of my work. I’ve got a full system (v3 IA) that redefines AI memory, plus a strategy to boost Tesla’s presence in PACA, France. It’s all about dreaming big and making it real. Interested? Let’s talk: [ton email].
+This script is a teaser – a taste of my work. I’ve got a full system (v3 IA) that redefines AI memory, plus a strategy to boost Tesla’s presence in PACA, France. It’s all about dreaming big and making it real. Interested? Let’s talk: consulting@web3-crypto.xyz
 
 License
 Licensed under the MIT License – free to use, modify, and share, as long as my name stays attached. See LICENSE for details.
 
 Contact
-Email: [ton email]
+Email: consulting@web3-crypto.xyz
 Deadline: April 5, 2025 – I’m pitching this to the right hands. Don’t miss out.
 
