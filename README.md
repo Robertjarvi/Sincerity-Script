@@ -27,24 +27,15 @@ bash install.sh
 ## Option 2: Manual setup
 Ensure you have Python 3.8+ installed.
 Install dependencies:
+
 bash
 
-Réduire
-
-Envelopper
-
-Copier
 pip install nltk sentence-transformers numpy scikit-learn
 Usage
 Evaluate messages with a single run. Example:
 
 python
 
-Réduire
-
-Envelopper
-
-Copier
 from sincerity_score import process_message_batch
 
 messages = [
