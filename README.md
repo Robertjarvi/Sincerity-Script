@@ -56,16 +56,20 @@ for result in results:
 ```
 
 Output example:
-
+```
 Message 1:
 Score: 85.23/100
 Recommendation: Remonter
 Innovation Trend: Stable
+```
 
+```
 Message 2:
 Score: 32.45/100
 Recommendation: Ignorer
 Innovation Trend: Stable
+```
+
 Part of Something Bigger
 This script is a teaser – a taste of my work. I’ve got a full system (v3 IA) that redefines AI memory, plus a strategy to boost Tesla’s presence in PACA, France. It’s all about dreaming big and making it real. Interested? Let’s talk: consulting@web3-crypto.xyz
 
